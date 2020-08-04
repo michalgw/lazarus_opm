@@ -4,18 +4,18 @@
       "ForceNotify" : false,
       "InternalVersion" : 1,
       "Name" : "zrptlaz.lpk",
-      "Version" : "2.0.11.0"
+      "Version" : "2.0.12.0"
     },
     {
       "ForceNotify" : false,
       "InternalVersion" : 1,
       "Name" : "zrptlaz_dsg.lpk",
-      "Version" : "2.0.11.0"
+      "Version" : "2.0.12.0"
     }
   ],
   "UpdatePackageData" : {
     "DisableInOPM" : false,
-    "DownloadZipURL" : "https://github.com/michalgw/zreport/archive/v2.0.11.zip",
+    "DownloadZipURL" : "https://github.com/michalgw/zreport/archive/v2.0.12.zip",
     "Name" : "zreport"
   }
 }
