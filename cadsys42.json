@@ -2,14 +2,14 @@
   "UpdateLazPackages" : [
     {
       "ForceNotify" : false,
-      "InternalVersion" : 1,
+      "InternalVersion" : 2,
       "Name" : "cadsys.lpk",
-      "Version" : "4.2.0.0"
+      "Version" : "4.3.0.0"
     }
   ],
   "UpdatePackageData" : {
     "DisableInOPM" : false,
-    "DownloadZipURL" : "https://github.com/michalgw/CADSys42/archive/v4.2.0.zip",
+    "DownloadZipURL" : "https://github.com/michalgw/CADSys42/archive/v4.3.0.zip",
     "Name" : "CADSys42"
   }
 }
